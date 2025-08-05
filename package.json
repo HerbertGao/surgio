@@ -1,13 +1,13 @@
 {
   "name": "@herbertgao/surgio",
   "description": "Generating rules for Surge, Clash, Quantumult like a PRO",
-  "version": "3.11.0-herbertgao",
+  "version": "3.11.0-herbertgao1",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
   "bin": {
     "surgio": "bin/run"
   },
-  "repository": "https://github.com/geekdada/surgio",
+  "repository": "https://github.com/HerbertGao/surgio",
   "author": "Roy Li <me@royli.dev>",
   "license": "MIT",
   "files": [
@@ -30,7 +30,7 @@
     "config.d.ts"
   ],
   "bugs": {
-    "url": "https://github.com/geekdada/surgio/issues"
+    "url": "https://github.com/HerbertGao/surgio/issues"
   },
   "homepage": "https://surgio.js.org",
   "scripts": {
