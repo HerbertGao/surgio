@@ -61,7 +61,7 @@ export const FLAGS = {
   '🇲🇽️': ['MEXICO', '墨西哥'],
   '🇲🇴': ['MACAU', 'MACAO', '澳门', 'CTM'],
   '🇲🇾': ['MALAYSIA', '马来西亚', '吉隆坡'],
-  '🇳🇱': ['NETHERLANDS', '荷兰', '荷蘭', '尼德蘭', '阿姆斯特丹', 'NLD'],
+  '🇳🇱': ['NETHERLANDS', '荷兰', '荷蘭', '尼德蘭', '阿姆斯特丹', 'NLD', 'NL'],
   '🇵🇭': ['PHILIPPINES', '菲律宾'],
   '🇷🇴': ['ROMANIA', '罗马尼亚'],
   '🇺🇾': ['乌拉圭', 'Uruguay'],
