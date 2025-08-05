@@ -31,7 +31,7 @@ export const parseMacro = (
   const ast = babelParser.parse(match[1], {})
   let statement
 
-  if (ast.errors.length) {
+  if (ast.errors?.length) {
     throw new Error('该片段不包含可用的宏')
   }
 

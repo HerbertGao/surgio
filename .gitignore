@@ -16,3 +16,6 @@ coverage/
 /test/fixture/**/dist
 /test/benchmark/playground.js
 /examples/**/dist
+
+.idea/
+.history/
