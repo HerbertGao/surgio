@@ -4,9 +4,11 @@ on:
   push:
     branches:
       - master
+      - release/herbertgao
   pull_request:
     branches:
       - master
+      - release/herbertgao
 
 jobs:
   test:
